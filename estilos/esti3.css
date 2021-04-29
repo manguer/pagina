@@ -32,3 +32,18 @@
 	font-size:35px;
 	display:block;
 }
+ftf {
+	width:175px;
+	height:80px;
+	left:100px;
+	top:100px;
+	border-style:solid;
+	border-color:black;
+	position:absolute;
+	background-size:cover;
+	border-radius:40px;
+	text-align: center;
+	font-family:helvetica;
+	font-size:35px;
+	display:block;
+}
